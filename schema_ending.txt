@@ -1,0 +1,7 @@
+txt,Text
+xls,Excel
+xlsx,Excel
+xlsm,Excel
+pdf,PDF
+docx,Word
+sql,SQL
